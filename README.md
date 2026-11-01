@@ -2,7 +2,7 @@
 
 ## Thiago Fonseca
 
-**Graphic Designer × Junior Developer**
+**![Animated introduction](./typing.svg)**
 
 *Turning ideas into experiences.*
 
