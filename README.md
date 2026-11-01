@@ -28,10 +28,18 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,expo&theme=dark" />
 </p>
 
-<h3>🎨 Design</h3>
+<h3>🎨 Design & Creative Tools</h3>
 
 <p>
-  Graphic Design × UI/UX
+  <strong>Graphic Design · UI/UX · Video Editing · Motion Graphics</strong>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" />
+</p>
+  <sub>Photoshop · Illustrator · Premiere Pro · After Effects</sub>
+</p>
+  <sub>Also experienced with CorelDRAW, Adobe Express & VEGAS Pro.</sub>
 </p>
 
 <h3>🛠️ Tools</h3>
