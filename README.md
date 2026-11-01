@@ -7,17 +7,15 @@
 
 ### 自己紹介 | About Me
 
-🎨 **Graphic Designer × Junior Mobile Developer** — combining visual design, UI/UX and technology to create meaningful digital experiences.
+🎨 *Graphic Designer × Junior Mobile Developer* — combining visual design, UI/UX and technology to create the best digital experiences.
 
-💻💚 **Currently building ANKA FIT**, a free fitness application using React Native, TypeScript and Expo.
+💻💚 *Currently building ANKA FIT*, a free fitness application using React Native, TypeScript and Expo.
 
-🤖 Exploring **AI-Assisted Development** — building real applications while studying, understanding and improving the code behind them.
+🤖 Exploring *AI-Assisted Development* — building real applications while studying, understanding and improving the code.
 
-✨ Passionate about **UI/UX Design**, intuitive interfaces and transforming ideas into functional products.
+✨ Passionate about *UI/UX Design*, intuitive interfaces and transforming ideas into functional products.
 
-🐧 Currently studying **Linux**, with Ethical Hacking & Cybersecurity next on my learning journey.
-
-🇯🇵 Inspired by Japanese culture, technology and continuous improvement.
+🐧 Currently studying *Linux*, with Ethical Hacking & Cybersecurity next on my learning journey.
 <h2>技術 | Tech Stack</h2>
 
 <p>
