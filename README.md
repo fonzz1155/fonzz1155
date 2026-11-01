@@ -3,6 +3,9 @@
 ## Thiago Fonseca
 
 *![Animated introduction](./typing.svg)*
+<br>
+💜 Currently building **ANKA FIT** — a free, personalized fitness app.
+
 <h2>技術 | Tech Stack</h2>
 
 <p>
@@ -55,6 +58,3 @@
 </p>
 
 <br>
-*Turning ideas into experiences.*
-
-💜 Currently building **ANKA FIT** — a free, personalized fitness app.
