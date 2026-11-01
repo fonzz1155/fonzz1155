@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="40" viewBox="0 0 760 40">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 19px;
+      font-weight: 500;
+      fill: #A78BFA;
+    }
+
+    .typing {
+      animation: reveal 12s steps(59, end) infinite;
+    }
+
+    .cursor {
+      animation: blink 0.8s step-end infinite;
+    }
+
+    @keyframes reveal {
+      0% { width: 0; }
+      70%, 85% { width: 100%; }
+      100% { width: 0; }
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="typing-clip">
+      <rect class="typing" x="0" y="0" width="0" height="40"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#typing-clip)">
+    <text class="text" x="0" y="27">
+      Graphic Designer × Junior Developer × Building ANKA FIT
+    </text>
+  </g>
+</svg>
