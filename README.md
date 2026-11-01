@@ -36,10 +36,11 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" />
-</p>
-  <sub>Photoshop · Illustrator · Premiere Pro · After Effects</sub>
-</p>
-  <sub>Also experienced with CorelDRAW, Adobe Express & VEGAS Pro.</sub>
+<p>
+  <sub>
+    Photoshop · Illustrator · Premiere Pro · After Effects<br>
+    Also experienced with CorelDRAW, Adobe Express & VEGAS Pro.
+  </sub>
 </p>
 
 <h3>🛠️ Tools</h3>
