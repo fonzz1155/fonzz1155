@@ -3,7 +3,6 @@
 ## Thiago Fonseca
 
 *![Animated introduction](./typing.svg)*
-
 <br>
 
 <h2>技術 | Tech Stack</h2>
@@ -29,11 +28,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
-
 <br>
-
 <br>
-
 <h2>作品 | Featured Project</h2>
 
 <h3>💚 ANKA FIT</h3>
@@ -63,7 +59,6 @@
 </p>
 
 <br>
-
 *Turning ideas into experiences.*
 
 💜 Currently building **ANKA FIT** — a free, personalized fitness app.
