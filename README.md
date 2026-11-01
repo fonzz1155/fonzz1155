@@ -2,9 +2,9 @@
 
 ## Thiago Fonseca
 
-*![Animated introduction](./typing.svg)**
+*![Animated introduction](./typing.svg)*
 
-*<br>
+<br>
 
 <h2>技術 | Tech Stack</h2>
 
